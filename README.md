@@ -1,4 +1,4 @@
-<div style="margin: 0 auto;"><img src="programmer.jpg" alt="programmer picture"></div>
+<div align="center"><img src="programmer.jpg" alt="programmer picture" width="500" height="500"></div>
 <h1 align="center">Hi 👋, I'm Aimal Khan</h1>
 <h3 align="center">A passionate web-developer from Pakistan</h3>
 
