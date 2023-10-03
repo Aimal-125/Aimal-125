@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **JavaScript**, **NodeJS**, **PHP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aimal-125](https://github.com/Aimal-125)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Aimal-125?tab=repositories)
+
+- 👨‍💻 My Frontend Designs Profile at [Frontend Mentor](https://www.frontendmentor.io/profile/Aimal-125)
 
 - 📫 How to reach me **aimal4910@gmail.com**
 
