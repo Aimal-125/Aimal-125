@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aimal4910" target="blank"><img src="https://img.shields.io/twitter/follow/aimal4910?logo=twitter&style=for-the-badge" alt="aimal4910" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **NodeJS**, **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aimal-125](https://github.com/Aimal-125)
 
